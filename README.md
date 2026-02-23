@@ -84,4 +84,4 @@ Ferramenta: NotebookLM (Google)
 
 Processo: seleção das transcrições → organização por temas → síntese em seções operacionais → revisão para clareza e objetividade
 
-Link do caderno: <https://notebooklm.google.com/notebook/b7b16d7c-2751-4f3a-9f42-66e95c76b616?authuser=4>
+Link do caderno: https://notebooklm.google.com/notebook/b7b16d7c-2751-4f3a-9f42-66e95c76b616?authuser=4
